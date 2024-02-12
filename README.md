@@ -1,2 +1,1 @@
-# C-language-examples
-C Dilinde Temel Örnekler
+# Buradaki tüm örnekler Dev C/C++ programında yapılmıştır.
